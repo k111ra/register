@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "username": "k111ra-github",
+    "email": "sidikslim@gmail.com"
+  },
+  "record": {
+    "A": [
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153",
+      "212.107.17.94"
+    ],
+    "CNAME": "gstock-ci.github.io"
+  }
+}
